@@ -1,29 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Blog</title>
-    <link>https://example.com/posts/</link>
-    <description>Recent content in Posts on Blog</description>
+    <title>Posts on Lalitha Visvanathan</title>
+    <link>https://lalithavn.github.io/posts/</link>
+    <description>Recent content in Posts on Lalitha Visvanathan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2020 22:31:00 +0530</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hugo and Tamil</title>
-      <link>https://example.com/posts/hugo-and-tamil/</link>
-      <pubDate>Tue, 29 Sep 2020 22:31:00 +0530</pubDate>
-      
-      <guid>https://example.com/posts/hugo-and-tamil/</guid>
-      <description>அகர முதல எழுத்தெல்லாம் ஆதி பகவன் முதற்றே உலகு.
-I wanted to check how I can write in tamil for my blog. I tried reading up on i18 and other methods but I couldn&amp;rsquo;t find anything simple. Finally I settled on Google docs.
-Google docs lets me write in Tamil (தமிழ்) and I can just copy paste it in my markdown file.</description>
-    </item>
-    
+    <lastBuildDate>Tue, 25 Aug 2020 13:45:00 +0530</lastBuildDate><atom:link href="https://lalithavn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>கோபம் கோபமாகவருகிறது</title>
-      <link>https://example.com/posts/kobam-kobamaga-varugirathu/</link>
+      <link>https://lalithavn.github.io/posts/2020/08/%E0%AE%95%E0%AF%8B%E0%AE%AA%E0%AE%AE%E0%AF%8D-%E0%AE%95%E0%AF%8B%E0%AE%AA%E0%AE%AE%E0%AE%BE%E0%AE%95%E0%AE%B5%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AE%BF%E0%AE%B1%E0%AE%A4%E0%AF%81/</link>
       <pubDate>Tue, 25 Aug 2020 13:45:00 +0530</pubDate>
       
-      <guid>https://example.com/posts/kobam-kobamaga-varugirathu/</guid>
+      <guid>https://lalithavn.github.io/posts/2020/08/%E0%AE%95%E0%AF%8B%E0%AE%AA%E0%AE%AE%E0%AF%8D-%E0%AE%95%E0%AF%8B%E0%AE%AA%E0%AE%AE%E0%AE%BE%E0%AE%95%E0%AE%B5%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AE%BF%E0%AE%B1%E0%AE%A4%E0%AF%81/</guid>
       <description>பெற்ற மகளையொத்த அப்பாவி மாணவிகளிடம் சில்மிஷம் செய்யும் சில வாத்தியார்களைக் கண்டால்&amp;hellip;
 சாலை விதிகளை, சிக்னல்களை அலட்சியமாக மீறிச் சென்று, பின் மார்தட்டிச் சிரிக்கும் வாகன ஓட்டிகளைக் கண்டால்&amp;hellip;
 நாட்டுக்கும் வீட்டுக்கும் சொந்த உயிருக்கும் விஷம் என்று தெரிந்திருந்தும், மதுக்கடைகளில் அலைமோதும் கூட்டத்தைக் கண்டால்&amp;hellip;
@@ -34,10 +22,10 @@ Google docs lets me write in Tamil (தமிழ்) and I can just copy paste i
     
     <item>
       <title>புலியூர்க்குறிச்சியில் ஒட்டுக்கேட்டவை</title>
-      <link>https://example.com/posts/puliyurkurichiyil-ottukettavai/</link>
+      <link>https://lalithavn.github.io/posts/2020/08/%E0%AE%AA%E0%AF%81%E0%AE%B2%E0%AE%BF%E0%AE%AF%E0%AF%82%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AE%BF%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%92%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%87%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%B5%E0%AF%88/</link>
       <pubDate>Wed, 19 Aug 2020 16:23:00 +0530</pubDate>
       
-      <guid>https://example.com/posts/puliyurkurichiyil-ottukettavai/</guid>
+      <guid>https://lalithavn.github.io/posts/2020/08/%E0%AE%AA%E0%AF%81%E0%AE%B2%E0%AE%BF%E0%AE%AF%E0%AF%82%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AE%BF%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%92%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%87%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%B5%E0%AF%88/</guid>
       <description>&amp;ldquo;ஏன்னா, &amp;ldquo;ராம….&amp;rdquo; &amp;ldquo;கிருஷ்ண…&amp;rdquo; இந்த ரெண்டு பாட்டுல எது நல்லா வந்திருக்கு?&amp;rdquo;
 &amp;ldquo;ராம…&amp;rdquo;
 &amp;ldquo;நேற்று கேட்டப்போ &amp;lsquo;கிருஷ்ண..&amp;rsquo; பாட்டு நல்லா இருக்குன்னு சொன்னேளே 😡?&amp;rdquo;

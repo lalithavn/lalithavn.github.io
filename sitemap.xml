@@ -1,38 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2020-09-29T22:31:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/posts/hugo-and-tamil/</loc>
-    <lastmod>2020-09-29T22:31:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/posts/</loc>
-    <lastmod>2020-09-29T22:31:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/posts/kobam-kobamaga-varugirathu/</loc>
+    <loc>https://lalithavn.github.io/</loc>
     <lastmod>2020-08-25T13:45:00+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/posts/puliyurkurichiyil-ottukettavai/</loc>
+  </url><url>
+    <loc>https://lalithavn.github.io/posts/</loc>
+    <lastmod>2020-08-25T13:45:00+05:30</lastmod>
+  </url><url>
+    <loc>https://lalithavn.github.io/posts/2020/08/%E0%AE%95%E0%AF%8B%E0%AE%AA%E0%AE%AE%E0%AF%8D-%E0%AE%95%E0%AF%8B%E0%AE%AA%E0%AE%AE%E0%AE%BE%E0%AE%95%E0%AE%B5%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AE%BF%E0%AE%B1%E0%AE%A4%E0%AF%81/</loc>
+    <lastmod>2020-08-25T13:45:00+05:30</lastmod>
+  </url><url>
+    <loc>https://lalithavn.github.io/posts/2020/08/%E0%AE%AA%E0%AF%81%E0%AE%B2%E0%AE%BF%E0%AE%AF%E0%AF%82%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AE%BF%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%92%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%87%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%B5%E0%AF%88/</loc>
     <lastmod>2020-08-19T16:23:00+05:30</lastmod>
+  </url><url>
+    <loc>https://lalithavn.github.io/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://example.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/</loc>
-  </url>
-  
 </urlset>
